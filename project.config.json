@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "fileId": "1A22qnKqL_DSZXQaLUsMPQWLZUg2O9EYK0b2LpZN6aUQ",
+      "type": "doc",
+      "name": "blog"
+    },
+    {
       "fileId": "1RgMhjtkXlbbf9uzSzy_xPRKwxcVZIZqVytgM_JoU4E4",
       "type": "doc",
       "name": "library"
@@ -23,6 +28,13 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-blog",
+      "data": "blog",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "blog"
     }
   ]
 }
